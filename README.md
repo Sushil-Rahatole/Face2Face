@@ -25,15 +25,15 @@
 
 ## 📁 Project Structure
 
-face2face/
-│
-├── backend/
-│ └── src/
-│ └── app.js # Express server with signaling logic
-│
-├── frontend/
-│ └── src/
-│ └── App.js # React client entry point
+face2face/<br>
+│<br>
+├── backend/<br>
+│ └── src/<br>
+│ └── app.js # Express server with signaling logic<br>
+│<br>
+├── frontend/<br>
+│ └── src/<br>
+│ └── App.js # React client entry point<br>
 
 
 ---
