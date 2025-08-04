@@ -52,9 +52,14 @@ npm run dev
 
 # Backend will run on http://localhost:8000
 
-
 cd frontend
 npm install
 npm start
 
 # Frontend will run on http://localhost:3000
+```
+
+### 2. Setup .env file
+
+i. create a .env file inside /backend
+ii. Inside that add :  DATABASE_URL=YOUR_MONGO_DB_URL
