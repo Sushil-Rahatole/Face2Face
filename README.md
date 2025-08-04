@@ -59,7 +59,7 @@ npm start
 # Frontend will run on http://localhost:3000
 ```
 
-### 2. Setup .env file
-
-i. create a .env file inside /backend
-ii. Inside that add :  DATABASE_URL=YOUR_MONGO_DB_URL
+### 2. Setup .env file<br>
+<br>
+i. create a .env file inside /backend<br>
+ii. Inside that add :  DATABASE_URL=YOUR_MONGO_DB_URL<br>
